@@ -1,3 +1,11 @@
+// ## Requirements Statement for Example ATM program
+// # The program to be designed will control a simulated automated teller machine (ATM). 
+// # The user will be required to enter a valid card number and a personal identification number (PIN). 
+// # If the PIN is invalid, the user will be required to re-enter the PIN before a transaction can proceed. 
+// # The user will then be able to perform one transaction or check his/her balance. 
+// # The program will provide the user with a success message. 
+
+
 package com.test;
 import java.util.*;
 
