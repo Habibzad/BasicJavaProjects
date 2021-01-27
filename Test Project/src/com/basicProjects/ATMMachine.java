@@ -6,7 +6,7 @@
 // # The program will provide the user with a success message. 
 
 
-package com.test;
+package com.basicProjects;
 import java.util.*;
 
 public class ATMMachine {

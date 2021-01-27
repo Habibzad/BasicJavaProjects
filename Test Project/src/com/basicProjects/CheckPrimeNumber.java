@@ -1,4 +1,4 @@
-package com.test;
+package com.basicProjects;
 import java.util.*;
 
 public class CheckPrimeNumber {
