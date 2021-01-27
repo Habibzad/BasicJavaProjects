@@ -21,3 +21,7 @@ public class Main {
 	}
 
 }
+
+
+//Outputs:
+//[Vehicle [price=20000.0, color=black, speed=Max speed of this car is: 240 km/h], Vehicle [price=16000.0, color=white, speed=Max speed of this boat is: 20 knots per hour]]
